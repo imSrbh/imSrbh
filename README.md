@@ -3,6 +3,8 @@
 <h3 align="center">An Intelligent Video Analytics Engineer from India 👾</h3>
 <h3 align="center">AI | Deep Learning | Computer Vision | AWS</h3>  
 
+![stats](https://github-readme-stats.vercel.app/api?username=imSrbh)
+
 
 <p align="center"> 
   Visitor count<br>
