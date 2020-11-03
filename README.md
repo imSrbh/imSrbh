@@ -3,14 +3,12 @@
 <h3 align="center">An Intelligent Video Analytics Engineer from India 👾</h3>
 <h3 align="center">AI | Deep Learning | Computer Vision | AWS</h3>  
 
+<h4 align="center">
 [![](https://img.shields.io/github/followers/zenithexpo?color=%23181717&label=&logo=github&style=for-the-badge)](https://github.com/imSrbh)
 [![](https://img.shields.io/badge/-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-kumar-singh-006947128/)
 [![](https://img.shields.io/twitter/follow/DikshaVv?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/im_srbh)
+</h4>
 
-[![](https://img.shields.io/github/followers/zenithexpo?color=%23181717&label=&logo=github&style=for-the-badge)](https://github.com/zenithexpo)
-[![](https://img.shields.io/badge/-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/112diksha-verma-93700b165/)
-[![](https://img.shields.io/twitter/follow/DikshaVv?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/DikshaVv)
-### Hola World! 👋
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=imSrbh)
