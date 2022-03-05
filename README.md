@@ -13,6 +13,10 @@
 <!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-04T09:52:57Z]-->
 * ![](./icons/zenn.png) [Leveraging NVIDIA’s NvDsAnalytics Plugin for Entry-Exit People Count](https://medium.com/@Smartcow_ai/leveraging-nvidias-nvdsanalytics-plugin-for-entry-exit-people-count-8f2d19217746)
 * ![](./icons/zenn.png) [Introduction to CUDA : The Beginner’s Guide](https://imsrbh.github.io/IntroToCUDA)
+* ![](./icons/zenn.png) [Vector Multiplication Using CUDA : A Complete Coding Walkthrough](https://imsrbh.github.io/VectorMultiplicationUsingCUDA/)
+* ![](./icons/zenn.png) [Setting UP the Littlest JupyterHub](https://imsrbh.github.io/SettingUPtljh/)
+* ![](./icons/zenn.png) [Setting Up a Private Docker Registry : A Complete guide](https://imsrbh.github.io/2020/04/22/SettingUpPrivateDockerRegistry/)
+
 <!--[END github.com/ikawaha/feedsnippet]-->
 
 ## Overall stats :chart_with_upwards_trend:
