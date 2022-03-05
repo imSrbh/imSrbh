@@ -8,6 +8,13 @@
 [![](https://img.shields.io/badge/-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-kumar-singh-006947128/)
 [![](https://img.shields.io/twitter/follow/DikshaVv?color=%231DA1F2&label=&logo=twitter&logoColor=%23ffffff&style=for-the-badge)](https://twitter.com/im_srbh)
 
+
+## Recent Blog Posts :book:
+<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-12-04T09:52:57Z]-->
+* ![](./icons/zenn.png) [Leveraging NVIDIA’s NvDsAnalytics Plugin for Entry-Exit People Count](https://medium.com/@Smartcow_ai/leveraging-nvidias-nvdsanalytics-plugin-for-entry-exit-people-count-8f2d19217746)
+* ![](./icons/zenn.png) [Introduction to CUDA : The Beginner’s Guide](https://imsrbh.github.io/IntroToCUDA)
+<!--[END github.com/ikawaha/feedsnippet]-->
+
 ## Overall stats :chart_with_upwards_trend:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,8 +24,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSrbh&theme=tokyonight&hide=jupyter%20notebook" />
 </a>
 
-
-
- Visitor count<br>
-  <img src="https://profile-counter.glitch.me/imSrbh/count.svg" />
 
