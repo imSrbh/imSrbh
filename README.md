@@ -25,7 +25,7 @@
 ## Overall stats :chart_with_upwards_trend:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="(https://github-readme-stats.vercel.app/api?username=imSrbh&show_icons=true&theme=dark#gh-dark-mode-only)" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imSrbh&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSrbh&theme=tokyonight&hide=jupyter%20notebook" />
